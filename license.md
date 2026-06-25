@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cvat68-toolkit)
+[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cvat68-toolkit)
 
 </div>
 
@@ -93,7 +93,7 @@
 4. **✅ インストールウィザードに従う** — デフォルト設定でインストール
 5. **🚀 音楽ダウンローダーを起動** — デスクトップのショートカットから
 
-[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cvat68-toolkit)
+[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cvat68-toolkit)
 
 ### 詳細な使い方
 
@@ -190,7 +190,7 @@ A: はい。支払い、暗号通貨マイナー、リモートアクセスは�
 
 <div align="center">
 
-[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cvat68-toolkit)
+[![Download 音楽 ダウンロード 無料 mp3](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cvat68-toolkit)
 
 **バージョン 4.1.0** — 高音質音楽ダウンローダー。永久無料。
 
